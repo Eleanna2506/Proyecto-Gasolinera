@@ -1,4 +1,4 @@
-package com.EleannaAzuaje.Gasstation;
+package com.DanielGandolfi.Gasstation;
 
 import org.springframework.web.bind.annotation.*;
 
